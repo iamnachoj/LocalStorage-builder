@@ -1,5 +1,5 @@
 # LocalStorage-builder
- Simple JavaScript localStorage app for practice purposes
+ Simple JavaScript localStorage app for practicing purposes
 
 ## Description
 

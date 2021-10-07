@@ -11,5 +11,8 @@ This app clarifies how it works and the use of it on the browser.
  - JavaScript
  - CSS
  - HTML
-
+## Deployment
+ Just clone it and run the html file. Plain and simple.
+ 
+ 
 Hope you enjoyed this minimal project ! 
